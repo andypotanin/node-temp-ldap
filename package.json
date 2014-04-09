@@ -1,0 +1,17 @@
+{
+  "name": "ldap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ldapjs": "~0.7.1",
+    "ldapjs-elasticsearch": "0.0.2",
+    "elastical": "0.0.13",
+    "Faker": "~0.7.0"
+  }
+}
